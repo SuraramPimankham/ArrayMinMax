@@ -1,0 +1,15 @@
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\bin\Debug\net6.0\ArrayMinMax.exe
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\bin\Debug\net6.0\ArrayMinMax.deps.json
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\bin\Debug\net6.0\ArrayMinMax.runtimeconfig.json
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\bin\Debug\net6.0\ArrayMinMax.dll
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\bin\Debug\net6.0\ArrayMinMax.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.csproj.AssemblyReference.cache
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.AssemblyInfoInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.AssemblyInfo.cs
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.csproj.CoreCompileInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.dll
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\refint\ArrayMinMax.dll
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ArrayMinMax.genruntimeconfig.cache
+C:\Users\goodt\OneDrive\Desktop\C#\ArrayMinMax\ArrayMinMax\obj\Debug\net6.0\ref\ArrayMinMax.dll
